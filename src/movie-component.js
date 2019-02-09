@@ -6,7 +6,7 @@ const MovieComponent = (props) => {
      new Date(parseInt(props.movie.ReleaseDate.slice(6, -2))).toDateString() 
      : 'NO DATE RETURNED';
     return (<div>
-        <h3 onClick={() => setIsExpanded(!isExpanded)}>{props.movie.Name}} </h3>
+        <h3 onClick={() => setIsExpanded(!isExpanded)}>{props.movie.Name}</h3>
         {isExpanded && <ul>
             <li>Id: {props.movie.Id}</li>
             <li>Year: {props.movie.MovieYear}</li>
