@@ -2,6 +2,7 @@
   "name": "hooks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://webmark.z23.web.core.windows.net/blu-ray/",
   "devDependencies": {
     "react-scripts": "2.1.3"
   },
