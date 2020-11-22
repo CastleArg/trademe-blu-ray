@@ -1,8 +1,6 @@
 Calls the trademe API.
 trialling hooks for state.
 
-CI with Azure devops to https://webmark.z23.web.core.windows.net/blu-ray
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
