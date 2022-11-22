@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://webmark.z23.web.core.windows.net/blu-ray/",
   "devDependencies": {
-    "react-scripts": "^3.4.0"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "react": "^16.8.1",
